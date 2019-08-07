@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Favorite Photos</string>
+
+    <string name="content_authority">com.example.android.favoritephotos</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- Favorites Menu -->
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- Photos Menu -->
+    <string name="refresh">Refresh</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="image_directory">favorites_directory</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <!-- Widget -->
+    <string name="empty_view_text">Please select your favorite photos by dropping pins on the map.</string>
+
+    <!-- Content Description -->
+    <string name="no_content_description">There is no description available for this image.</string>
+    <string name="share">Share.</string>
+    <string name="favorite">Favorite.</string>
+
+</resources>
